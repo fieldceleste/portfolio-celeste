@@ -1565,8 +1565,8 @@ pre {
   color: #333;
   word-break: break-all;
   word-wrap: break-word;
-  background-color:violet ;
-  border: 1px solid rgb(161, 212, 161);
+  background-color: #d5f1bb;
+  border: 1px solid rgb(158, 209, 158);
   border-radius: 4px;
 }
 pre code {
@@ -1586,7 +1586,6 @@ pre code {
   padding-left: 20px;
   margin-right: auto;
   margin-left: auto;
-  background-color: teal;
 }
 @media (min-width: 768px) {
   .container {

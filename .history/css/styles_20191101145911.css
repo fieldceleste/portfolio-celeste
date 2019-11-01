@@ -5,12 +5,8 @@ height:45%;
 padding: 90px;
 margin: 4px;
 }
-.projects ul li{
-     display:block;
 
-}
 .projects ul li a{
-    color:purple;
-    cursor: hand;
+    color:purple
 
 }
