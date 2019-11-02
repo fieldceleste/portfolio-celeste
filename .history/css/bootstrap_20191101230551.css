@@ -5356,7 +5356,7 @@ button.list-group-item-success.active:focus {
 }
 .list-group-item-info {
   color: #31708f;
-  background-color: #95b7c9;
+  background-color: #d9edf7;
 }
 a.list-group-item-info,
 button.list-group-item-info {
@@ -5465,7 +5465,6 @@ button.list-group-item-danger.active:focus {
   border-bottom: 1px solid transparent;
   border-top-left-radius: 3px;
   border-top-right-radius: 3px;
-  background-color: palegoldenrod;
 }
 .panel-heading > .dropdown .dropdown-toggle {
   color: green;
@@ -5475,7 +5474,6 @@ button.list-group-item-danger.active:focus {
   margin-bottom: 0;
   font-size: 16px;
   color: plum;
-  
 }
 .panel-title > a,
 .panel-title > small,
