@@ -23,7 +23,7 @@ in web development}_
 ## Support and contact details
 
 _{For Support contact fieldceleste@gmail.com}_
-_{Link to git hub pages-https://github.com/fieldceleste/portfolio-celeste.git}
+_{To view git page visit: https://github.com/fieldceleste/portfolio-celeste.git}_
 
 ## Technologies Used
 
